@@ -1,4 +1,3 @@
-askMasterApp
 TaskMasterApp is a powerful task management application designed to help you stay organized and productive. The app provides a user-friendly interface to manage tasks, track progress, categorize items, and more. Whether you're managing personal projects or team tasks, TaskMasterApp has you covered.
 
 Features
